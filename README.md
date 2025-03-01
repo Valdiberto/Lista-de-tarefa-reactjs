@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 "# Lista-de-tarefa-reactjs" 
+"# CoffeeShop-Reactjs" 
